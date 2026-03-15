@@ -67,7 +67,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCkKFhUWsPMyGm9f-exluBHUrmYI0Q_syQ',
+    apiKey: 'YOUR_API_KEY',
     appId: '1:235810189345:ios:8b06228ab33f5dd9793360',
     messagingSenderId: '235810189345',
     projectId: 'attendance-app-491f1',
@@ -76,7 +76,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyC3go3bAsd1ZBirVquiXMLHhGZxWoPbdKM',
+    apiKey:'YOUR_API_KEY',
     appId: '1:235810189345:web:5630f465a3bbcd2c793360',
     messagingSenderId: '235810189345',
     projectId: 'attendance-app-491f1',
