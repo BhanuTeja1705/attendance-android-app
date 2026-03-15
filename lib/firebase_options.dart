@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyC3go3bAsd1ZBirVquiXMLHhGZxWoPbdKM',
+    apiKey: 'YOUR_API_KEY',
     appId: '1:235810189345:web:17c2285df1fa4135793360',
     messagingSenderId: '235810189345',
     projectId: 'attendance-app-491f1',
@@ -50,7 +50,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCOvpbEgEbTmTwue9rPT06Dj28W-LL04g0',
+    apiKey: 'YOUR_API_KEY',
     appId: '1:235810189345:android:39becb39fb74d90c793360',
     messagingSenderId: '235810189345',
     projectId: 'attendance-app-491f1',
@@ -58,7 +58,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCkKFhUWsPMyGm9f-exluBHUrmYI0Q_syQ',
+    apiKey: 'YOUR_API_KEY',
     appId: '1:235810189345:ios:8b06228ab33f5dd9793360',
     messagingSenderId: '235810189345',
     projectId: 'attendance-app-491f1',
