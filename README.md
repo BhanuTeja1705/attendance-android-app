@@ -75,7 +75,7 @@ attendance_app/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/attendance_app.git
+git clone https://github.com/BhanuTeja1705/attendance_app.git
 Navigate to the project:
 cd attendance_app
 Install dependencies:
@@ -101,12 +101,6 @@ build/app/outputs/flutter-apk/app-release.apk
 - Enable Authentication  
 - Enable Firestore Database  
 - Download and add `google-services.json`  
-
----
-
-## 📸 Features Preview
-
-_Add screenshots of app UI here_
 
 ---
 
